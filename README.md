@@ -8,4 +8,4 @@
 # Hasil 3
 #![AltText](https://github.com/najmi10/Function-and-Tugas/blob/master/Lat5.png "Hasil Tiga")
 # Latihan 1
-#![AltText](https://github.com/najmi10/Function-and-Tugas/blob/master/Screenshot%20(119).png " latihan 1"
+#![AltText](https://github.com/najmi10/Function-and-Tugas/blob/master/Screenshot%20(119).png " Latihan 1")
